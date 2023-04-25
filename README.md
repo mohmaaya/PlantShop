@@ -2,6 +2,7 @@
 TechStack: JavaScript namely React, MaterialUI, CSS
 
 Designed using Material UI Components. Fetched each of the plant card details from the server and then populated. <br>
+Each of the Cards can be hovered and clicked to fetch more details about the plant.<br>
 <br>
 
 ![agri1](https://user-images.githubusercontent.com/106863105/234260019-b35dbf41-9b7a-41cc-9b53-c8c2228d4a4f.png)
